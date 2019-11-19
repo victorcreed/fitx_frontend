@@ -22,7 +22,7 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "react": "16.8.6",
     "react-native": "0.60.1",
     "react-native-linear-gradient": "^2.4.3",
